@@ -1,0 +1,66 @@
+[   
+    {
+        "id": 1001, 
+        "nombre": "Matafuegos Polvo Quimico (1 kg.)",
+        "riesgo": "incendio", 
+        "capacidad": "1 kilogramo", 
+        "precio": 1000,
+        "img": "https://www.georgia.com.ar/wp-content/uploads/2016/06/matafuegos_polvo_1kg.jpg"
+    },
+    {
+        "id": 1002, 
+        "nombre": "Matafuegos Polvo Quimico (2,5 kg.)", 
+        "riesgo": "incendio", 
+        "capacidad": "2,5 kilogramos", 
+        "precio": 2500,
+        "img": "https://www.georgia.com.ar/wp-content/uploads/2016/01/matafuegos_polvo_25.jpg"
+    },
+    {
+        "id": 1003, 
+        "nombre": "Matafuegos Polvo Quimico (100 kg.)", 
+        "riesgo": "incendio", 
+        "capacidad": "100 kilogramos", 
+        "precio": 80000,
+        "img": "https://www.georgia.com.ar/wp-content/uploads/2016/02/matafuegos_polvo_100kg.jpg"
+    },
+    {
+        "id": 1004, 
+        "nombre": "Kit Automotor", 
+        "riesgo": "incendio", 
+        "capacidad": "1 kilogramo + varios", 
+        "precio": 2500,
+        "img": "https://www.georgia.com.ar/wp-content/uploads/2016/05/kit_3_grande.jpg"
+    },
+    {
+        "id": 1005, 
+        "nombre": "Barbijo Descartable x 50 U.", 
+        "riesgo": "covid19", 
+        "capacidad": "50 unidades", 
+        "precio": 1500,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_723165-MLA49035631879_022022-O.webp"
+    },
+    {
+        "id": 1006, 
+        "nombre": "Barbijo Tricapa x 50 U.", 
+        "riesgo": "covid19", 
+        "capacidad": "50 unidades", 
+        "precio": 2500,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_808727-MLA45485378989_042021-O.jpg"
+    },
+    {
+        "id": 1007, 
+        "nombre": "Barbijo N95 x 50 U.", 
+        "riesgo": "covid19", 
+        "capacidad": "50 unidades", 
+        "precio": 8000,
+        "img": "https://i-mek.com/wp-content/uploads/2021/04/Barbijo-N95-de-3M-Niosh.jpg"
+    },
+    {
+        "id": 1008, 
+        "nombre": "Mascara Facial", 
+        "riesgo": "covid19", 
+        "capacidad": "1 unidad", 
+        "precio": 2000,
+        "img": "https://www.llaquina.com.ar/images/000000FACFRA1715538292020-fravida.png"
+    }
+]
